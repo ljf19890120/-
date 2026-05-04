@@ -6,8 +6,7 @@
   { "id": "src-极速", "name": "极速", "Top": true, "Search": true, "Priority": 500005, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json" },
   { "id": "src-暴风", "name": "暴风", "Top": true, "Search": true, "Priority": 500006, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://bfzyapi.com/api.php/provide/vod/" },
   { "id": "src-最大", "name": "最大", "Top": true, "Search": true, "Priority": 500007, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/" },
-  { "id": "src-360", "name": "360", "Top": true, "Search": true, "Priority": 500008, "note": "use_proxy=true enabled=true is_custom=true", "api": 
-"https://360zy.com/api.php/provide/vod" },
+  { "id": "src-360", "name": "360", "Top": true, "Search": true, "Priority": 500008, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://360zy.com/api.php/provide/vod" },
   { "id": "src-四圈", "name": "四圈", "Top": true, "Search": true, "Priority": 500009, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://pg.fenwe078.cf/api.php/provide/vod/" },
   { "id": "src-ikun", "name": "ikun", "Top": false, "Search": true, "Priority": 500010, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://ikunzyapi.com/api.php/provide/vod/" },
   { "id": "src-卧龙", "name": "卧龙", "Top": true, "Search": true, "Priority": 500011, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json" },
@@ -23,13 +22,12 @@
   { "id": "src-猫眼资源", "name": "猫眼资源", "Top": false, "Search": true, "Priority": 500021, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://api.maoyanapi.top/api.php/provide/vod" },
   { "id": "src-789", "name": "789", "Top": false, "Search": true, "Priority": 500022, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://www.caiji.cyou/api.php/provide/vod/?ac=list" },
   { "id": "src-听风", "name": "听风", "Top": false, "Search": true, "Priority": 500023, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://gctf.tfdh.top/api.php/provide/vod/?ac=list" },
-  { "id": "src-U酷", "name": "U酷", "Top": false, "Search": true, "Priority": 500024, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list" }
+  { "id": "src-U酷", "name": "U酷", "Top": false, "Search": true, "Priority": 500024, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list" },
+
   { "id": "src-非凡资源", "name": "非凡资源", "Top": true, "Search": true, "Priority": 500025, "note": "use_proxy=true enabled=true is_custom=true", "api": "http://ffzy5.tv/api.php/provide/vod" },
   { "id": "src-卧龙资源", "name": "卧龙资源", "Top": true, "Search": true, "Priority": 500026, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://wolongzyw.com/api.php/provide/vod" },
-  { "id": "src-最大资源", "name": "最大资源", "Top": true, "Search": true, "Priority": 5000027, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://api.zuidapi.com/api.php/provide/vod" },
-  { "id": "src-155", "name": "155", "Top": false, "Search": true, "Priority": 510038, "note": "use_proxy=false enabled=true is_custom=true", "api": 
-"https://155api.com/api.php/provide/vod" },
-  { "id": "src-CK", "name": "CK", "Top": false, "Search": true, "Priority": 510036, "note": "use_proxy=false enabled=true is_custom=true", "api": 
-"https://www.ckzy1.com/api.php/provide/vod" },
+  { "id": "src-最大资源", "name": "最大资源", "Top": true, "Search": true, "Priority": 500027, "note": "use_proxy=true enabled=true is_custom=true", "api": "https://api.zuidapi.com/api.php/provide/vod" },
+
+  { "id": "src-155", "name": "155", "Top": false, "Search": true, "Priority": 510038, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://155api.com/api.php/provide/vod" },
+  { "id": "src-CK", "name": "CK", "Top": false, "Search": true, "Priority": 510036, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://www.ckzy1.com/api.php/provide/vod" },
   { "id": "src-jkun", "name": "jkun", "Top": false, "Search": true, "Priority": 510037, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://jkunzyapi.com/api.php/provide/vod" }
-]

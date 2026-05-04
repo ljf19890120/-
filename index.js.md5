@@ -1,3 +1,1 @@
-$h = (Get-FileHash .\index.js -Algorithm MD5).Hash.ToLower()
-"$h  index.js" | Out-File -Encoding ascii .\index.js.md5
-Get-Content .\index.js.md5
+5330906aed90f3d08ecf5d74c1053e49  index.js

@@ -31,3 +31,4 @@
   { "id": "src-155", "name": "155", "Top": false, "Search": true, "Priority": 510038, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://155api.com/api.php/provide/vod" },
   { "id": "src-CK", "name": "CK", "Top": false, "Search": true, "Priority": 510036, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://www.ckzy1.com/api.php/provide/vod" },
   { "id": "src-jkun", "name": "jkun", "Top": false, "Search": true, "Priority": 510037, "note": "use_proxy=false enabled=true is_custom=true", "api": "https://jkunzyapi.com/api.php/provide/vod" }
+]
